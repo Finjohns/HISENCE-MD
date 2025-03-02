@@ -31,7 +31,7 @@ const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require("./lib/
 const store = makeInMemoryStore({ logger: pino().child({ level: "silent", stream: "store" }) });
 
 const authenticationn = require("./auth.js");
-const daddy = "254748387615@s.whatsapp.net";
+const daddy = "254713192684@s.whatsapp.net";
 
 const {
   autoview, autoread, botname, autobio, mode, anticallmsg, reactemoji, prefix, presence,
@@ -75,7 +75,7 @@ async function startKeith() {
     setInterval(() => {
       const date = new Date();
       client.updateProfileStatus(
-        `${botname} is active 24/7\n\n${date.toLocaleString("en-US", { timeZone: "Africa/Nairobi" })} It's a ${date.toLocaleString("en-US", { weekday: "long", timeZone: "Africa/Nairobi" })}.`
+        `${botname} is Am working clock ⏰\n\n${date.toLocaleString("en-US", { timeZone: "Africa/Nairobi" })} It's a ${date.toLocaleString("en-US", { weekday: "long", timeZone: "Africa/Nairobi" })}.`
       );
     }, 10 * 1000);
   }
@@ -352,7 +352,7 @@ async function startKeith() {
         return "Good night 😴";
       };
 
-      const message = `Holla, ${getGreeting()},\n\n╭═══『𝐊𝐞𝐢𝐭𝐡 𝐌𝐝 𝐢𝐬 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝』══⊷ \n` +
+      const message = `Holla, ${getGreeting()},\n\n╭═══『𝐇𝐢𝐬𝐞𝐧𝐜𝐞 𝐌𝐝 𝐢𝐬 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝』══⊷ \n` +
         `║ ʙᴏᴛ ɴᴀᴍᴇ ${botname}\n` +
         `║ �ᴍᴏᴅᴇ ${mode}\n` +
         `║ ᴘʀᴇғɪx [  ${prefix} ]\n` +

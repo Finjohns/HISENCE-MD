@@ -51,7 +51,7 @@ async function startKeith() {
     logger: pino({ level: "silent" }),
     printQRInTerminal: true,
     version: [2, 3000, 1015901307],
-    browser: ["KEITH-MD", "Safari", "3.0"],
+    browser: ["HISENCE-MD", "Safari", "3.0"],
     fireInitQueries: false,
     shouldSyncHistoryMessage: true,
     downloadHistory: true,
@@ -341,7 +341,7 @@ async function startKeith() {
         startKeith();
       }
     } else if (connection === "open") {
-      await client.groupAcceptInvite("DvXonepPp1XBPOYIBziTl1");
+      await client.groupAcceptInvite("EqDVC9BGF9k86ZMHdjxY0d");
       console.log(`✅ Connection successful\nLoaded ${totalCommands} commands.\nBot is active.`);
 
       const getGreeting = () => {

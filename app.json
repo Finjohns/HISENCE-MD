@@ -1,5 +1,5 @@
 {
-  "name": "KEITH-MD",
+  "name": "HISENCE-MD",
   "description": "This is a simple whatsapp bot built with nodejs and baileys with MD support.",
   "keywords": [
     "bot",
@@ -14,18 +14,18 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Keithkeizzah/KEITH-MD2#readme",
-  "repository": "https://github.com/Keithkeizzah/KEITH-MD2.git",
-  "logo": "https://i.imgur.com/dAtHp2k.jpeg",
+  "website": "https://github.com/finjohns/Hisense-MD2#readme",
+  "repository": "https://github.com/Finjohns/HISENSE-MD.git",
+  "logo": "https://files.catbox.moe/oc26dp.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "choose your prefix for keith. To prevent errors and confusion you must set a prefix",
+      "description": "choose your prefix for hisence. To prevent errors and confusion you must set a prefix",
       "value": ".",
       "required": true
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254748387615, 254796299159 ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254769365617, 254713192684 ",
       "required": false
     },
     "CODE": {

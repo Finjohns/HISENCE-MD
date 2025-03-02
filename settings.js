@@ -6,11 +6,11 @@ const session = process.env.SESSION || '';
 
 const prefix = process.env.PREFIX || '';
 const mycode = process.env.CODE || "254";
-const author = process.env.STICKER_AUTHOR || 'Keith';
-const packname = process.env.PACKNAME || 'keith';
-const dev = process.env.DEV || '254748387615';
+const author = process.env.STICKER_AUTHOR || 'Jinwiil';
+const packname = process.env.PACKNAME || 'Onginjo';
+const dev = process.env.DEV || '254769365617';
 const DevKeith = dev.split(",");
-const botname = process.env.BOTNAME || 'KEITH-MD';
+const botname = process.env.BOTNAME || 'HISENCE-MD';
 const mode = process.env.MODE || 'public';
 const gcpresence = process.env.GC_PRESENCE || 'false';
 const antionce = process.env.ANTIVIEWONCE || 'true';
@@ -25,7 +25,7 @@ const antidelete = process.env.ANTIDELETE || 'true';
 const autoview = process.env.AUTOVIEW_STATUS || 'true';
 const autolike = process.env.AUTOLIKE_STATUS || 'true';
 const autoread = process.env.AUTOREAD || 'true';
-const anticallmsg = process.env.ANTICALL_MSG || 'Keith declined your 🤙 call';
+const anticallmsg = process.env.ANTICALL_MSG || 'Jinwiil declined your 🤙 call';
 const autobio = process.env.AUTOBIO || 'false';
 
 module.exports = {

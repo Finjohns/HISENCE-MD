@@ -5,7 +5,7 @@ module.exports = async (context) => {
 
     // Ensure that the input text is provided
     if (!text) {
-        return m.reply(`Example usage: ${prefix}nowa 2547483876xx`);
+        return m.reply(`Example usage: ${prefix}nowa 2547693656xx`);
     }
 
     // Regex for matching phone number patterns

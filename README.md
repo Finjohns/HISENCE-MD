@@ -1,6 +1,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐊𝐄𝐈𝐓𝐇-𝐌𝐃 </h1>
+<h1 align="center"> 𝐇𝐢𝐬𝐞𝐧𝐜𝐞-𝐌𝐃 </h1>
 
  
 <h1 align="center"> Survival is winning frankline everything else is bullshit,fairy tales spun by people afraid to look life in the eye,do whatever it takes kid ,,survive 😏🙏
@@ -25,7 +25,7 @@
 
   
 
-<a href="https://github.com/keithkeizzah/KEITH-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK KEITH" width="150"></a>
+<a href="https://github.com/finjohns/HISENSE-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK HISENSE" width="150"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -38,7 +38,7 @@
 ###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/KEITH-MD&template=https://github.com/keithkeizzah/KEITH-MD.git)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Finjohns/HISENSE-MD&template=https://github.com/Finjohns/HISENSE-MD.git)***
 
 <br>
 

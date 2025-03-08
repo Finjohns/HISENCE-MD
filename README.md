@@ -25,7 +25,7 @@
 
   
 
-<a href="https://github.com/finjohns/HISENSE-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK HISENSE" width="150"></a>
+<a href="https://github.com/finjohns/HISENCE-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK HISENCE" width="150"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -38,7 +38,7 @@
 ###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
 
- ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Finjohns/HISENSE-MD&template=https://github.com/Finjohns/HISENSE-MD.git)***
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Finjohns/HISENCE-MD&template=https://github.com/Finjohns/HISENCE-MD.git)***
 
 <br>
 

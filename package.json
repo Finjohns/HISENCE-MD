@@ -1,5 +1,5 @@
 {
-  "name": "HISENSE-MD",
+  "name": "HISENCE-MD",
   "version": "2.0.0",
   "description": "WhatsApp Multi Device Bot",
   "main": "index.js",
@@ -114,7 +114,7 @@
     "url": "git+https://github.com/Finjohns/HISENCE-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Finjohns/HISENSE-MD/issues"
+    "url": "https://github.com/Finjohns/HISENCE-MD/issues"
   },
-  "homepage": "https://github.com/Finjohns/HISENSE-MD#readme"
+  "homepage": "https://github.com/Finjohns/HISENCE-MD#readme"
 }
